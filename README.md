@@ -1,4 +1,4 @@
-# Análise de Correlação e Regressão Linear - Loan Dataset
+# Análise de Risco de Crédito com Correlação e Regressão Linear
 
 Este projeto apresenta uma análise estatística aplicada a um dataset de empréstimos, com foco em investigar a relação entre a **idade do cliente** e sua **renda anual**, utilizando técnicas de **correlação** e **regressão linear**.
 
